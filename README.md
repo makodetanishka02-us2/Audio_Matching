@@ -2,7 +2,7 @@
 #### Audio comparison tool using audio fingerprinting and Longest Common Subsequence Algorithm
 #### It is an audio-matching system that compares two WAV audio files and determines how similar they are using **audio-to-matrix conversion, matrix compression, fingerprint generation, and Longest Common Subsequence (LCS)**.
 
-#### Work Flow
+### Work Flow of the project :-
 #### 1)WAV Audio Files
 #### 2)Audio → Matrix Conversion
 #### 3)64 × 64 Matrix
@@ -18,13 +18,15 @@
 ##### Python
 ##### Flask
 ##### Flask-CORS
-#### Algorithms
+
+### Algorithms
 ##### Longest Common Subsequence (LCS)
 #### Data Processing
 ##### Numerical matrix representation
-###### Frequency profile extraction
-###### Time profile extraction
-#### Frontend
+##### Frequency profile extraction
+##### Time profile extraction
+
+### Frontend
 ##### JavaScript
 ##### CSS
 ##### Html
